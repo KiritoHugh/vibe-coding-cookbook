@@ -1,4 +1,7 @@
 # vibe-coding-cookbook
+- bili-dl
+- xhs-web-longfig
+- fast-video2blog
 
 ## bili-dl
 
