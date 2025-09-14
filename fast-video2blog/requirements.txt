@@ -1,0 +1,10 @@
+# 安装系统依赖 (Ubuntu)
+# sudo apt update && sudo apt install -y ffmpeg
+
+# 安装Python包
+pip install torch torchaudio
+pip install git+https://github.com/openai/whisper.git
+pip install pyannote.audio pydub
+pip install PyQt5
+
+# TODO , 有 ffmepeg 等等依赖吧
