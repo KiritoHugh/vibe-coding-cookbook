@@ -8,7 +8,7 @@
 ## xhs-web-longfig
 
 <img width="289" height="119" alt="image" src="https://github.com/user-attachments/assets/8220c30b-65fa-4e5e-a057-c2aa97e58ffc" />
-<img width="720" height="4928" alt="877dd33e0f157e44be5f0b3aff1d97ad" src="https://github.com/user-attachments/assets/07c046a3-cb01-43dc-93b4-b71f344948f2" />
+<img width="360" height="4928" alt="877dd33e0f157e44be5f0b3aff1d97ad" src="https://github.com/user-attachments/assets/07c046a3-cb01-43dc-93b4-b71f344948f2" />
 
 
 ## fast-video2blog
