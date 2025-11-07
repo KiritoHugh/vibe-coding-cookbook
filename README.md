@@ -1,7 +1,14 @@
 # vibe-coding-cookbook
+- PingCamera
 - bili-dl
 - xhs-web-longfig
 - fast-video2blog
+
+## PingCamera
+
+
+https://github.com/user-attachments/assets/2671bb9e-a16e-4487-8e16-91cc43c65583
+
 
 ## bili-dl
 
